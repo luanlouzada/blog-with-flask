@@ -5,3 +5,6 @@ Author: Luan Louzada
 Requires-Dist: flask
 Requires-Dist: flask_pymongo
 Requires-Dist: dynaconf
+Requires-Dist: unidecode
+Requires-Dist: flask-bootstrap
+Requires-Dist: mistune
